@@ -1,0 +1,4 @@
+com/example/warningapi/controller/TestController.class
+com/example/warningapi/repository/TestRepository.class
+com/example/warningapi/WarningApiApplication.class
+com/example/warningapi/model/TestEntry.class
